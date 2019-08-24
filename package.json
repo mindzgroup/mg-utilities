@@ -1,6 +1,6 @@
 {
   "name": "@mindzgroup/utilities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of commonly used utility function.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
